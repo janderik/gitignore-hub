@@ -1,0 +1,4 @@
+/.aws/
+credentials
+*.pem
+*.key
